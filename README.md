@@ -2,8 +2,8 @@
 
 ### First Priority
 
-- [ ] iTerm
-- [ ] Homebrew
+- [ ] [iTerm2](https://iterm2.com/)
+- [ ] [Homebrew](https://brew.sh/)
 
 ### Language Interpreter, Compiler
 
@@ -15,20 +15,28 @@
 
 ### Editor, IDE
 
-- [ ] Jetbrain Toolbox
+- [ ] [Jetbrain Toolbox](https://www.jetbrains.com/toolbox-app/)
   - [ ] IntelliJ Idea
     - [ ] Python
     - [ ] Rust
     - [ ] Go
-- [ ] Visual Studio Code
-  - [ ] Elixir
+- [ ] [Visual Studio Code](https://code.visualstudio.com/)
+  - [ ] Code Runner
+  - [ ] ElixirLS: Elixir support and debugger
+  - [ ] IntelliJ IDEA Keybindings
+  - [ ] Markdown All in One
+  - [ ] Phoenix Framework
+  - [ ] Terminal
+  - [ ] Remote - SSH
+  - [ ] Remote - SSH: Editing Configutation Files
+  - [ ] vscode-elixir
 
 ### Infra, VCS
 
 - [ ] git
 - [ ] Docker
-  - [ ] Docker Desktop
-- [ ] k8s
+  - [ ] [Docker Desktop](https://www.docker.com/get-started/)
+- [ ] kubernetes
   - [ ] kubernetes-cli
   - [ ] kustomize
   - [ ] minikube
@@ -37,17 +45,20 @@
 
 ### DB
 
+- [ ] InfluxDB 2+
 - [ ] Mysql 5.7+
 - [ ] MongoDB
 - [ ] Redis
 
 ### Tools
 
-- [ ] DBeaver
-- [ ] Postman
-- [ ] Kubernetes Lens
-- [ ] MongoDB Compass
-- [ ] WindowTidy
+- [ ] [Cyberduck](https://cyberduck.io/)
+- [ ] [DBeaver](https://dbeaver.io/)
+- [ ] [Postman](https://www.postman.com/downloads/)
+- [ ] [Kubernetes Lens](https://k8slens.dev/)
+- [ ] [Notion](https://www.notion.so/ko-kr/desktop)
+- [ ] [MongoDB Compass](https://www.mongodb.com/products/compass)
+- [ ] WindowTidy (App Store)
 - [ ] Typora
 
 ## Profile settings
@@ -68,4 +79,3 @@ export HOMEBREW_NO_AUTO_UPDATE=1
 colo desert
 syntax on
 ```
-
