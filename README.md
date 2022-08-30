@@ -2,6 +2,7 @@
 
 ### First Priority
 - [ ] [iTerm2](https://iterm2.com/)
+  - [ ] [fzf](https://github.com/junegunn/fzf)
 - [ ] [Homebrew](https://brew.sh/)
 
 ### Language Interpreter, Compiler
@@ -64,6 +65,7 @@
 export CLICOLOR=1
 export LSCOLORS=ExGxBxDxCxEgEdxbxgxcxd
 export HOMEBREW_NO_AUTO_UPDATE=1
+export HISTSIZE=100000
 ```
 
 #### vim
