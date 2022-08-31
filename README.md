@@ -62,10 +62,11 @@
 #### zshell
 ```shell
 # ~/.zshrc or ~/.zprofile
+HISTSIZE=1000000
+SAVEHIST=1000000
 export CLICOLOR=1
 export LSCOLORS=ExGxBxDxCxEgEdxbxgxcxd
 export HOMEBREW_NO_AUTO_UPDATE=1
-export HISTSIZE=100000
 ```
 
 #### vim
