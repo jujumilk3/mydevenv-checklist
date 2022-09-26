@@ -49,13 +49,14 @@
 ### Tools
 - [ ] [Cyberduck](https://cyberduck.io/)
 - [ ] [DBeaver](https://dbeaver.io/)
+- [ ] [Kubernetes Lens](https://k8slens.dev/)
+- [ ] [MongoDB Compass](https://www.mongodb.com/products/compass)
+- [ ] [Notion](https://www.notion.so/ko-kr/desktop)
 - [ ] [Postman](https://www.postman.com/downloads/)
 - [ ] [RunCat](https://kyome.io/runcat/index.html?lang=en)
-- [ ] [Kubernetes Lens](https://k8slens.dev/)
-- [ ] [Notion](https://www.notion.so/ko-kr/desktop)
-- [ ] [MongoDB Compass](https://www.mongodb.com/products/compass)
-- [ ] [WindowTidy](https://www.lightpillar.com/window-tidy.html)
+- [ ] [SnippetsLab](https://www.renfei.org/snippets-lab/)
 - [ ] [Typora](https://typora.io/)
+- [ ] [WindowTidy](https://www.lightpillar.com/window-tidy.html)
 
 ## Profile settings
 
