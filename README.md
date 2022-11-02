@@ -7,6 +7,8 @@
 
 ### Language Interpreter, Compiler
 - [ ] Python3.9+
+  - [ ] [Poetry](https://python-poetry.org/)
+  - [ ] [pyenv](https://github.com/pyenv/pyenv)
 - [ ] Elixir 1.13+ (erlang)
 - [ ] Rust 1.61+
 - [ ] Go 1.18+
@@ -18,6 +20,7 @@
     - [ ] Python
     - [ ] Rust
     - [ ] Go
+    - [ ] Copilot
 - [ ] [Visual Studio Code](https://code.visualstudio.com/)
   - [ ] Code Runner
   - [ ] ElixirLS: Elixir support and debugger
