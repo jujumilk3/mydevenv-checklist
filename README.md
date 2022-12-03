@@ -3,6 +3,7 @@
 ### First Priority
 - [ ] [iTerm2](https://iterm2.com/)
   - [ ] [fzf](https://github.com/junegunn/fzf)
+  - [ ] [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
 - [ ] [Homebrew](https://brew.sh/)
 
 ### Language Interpreter, Compiler
