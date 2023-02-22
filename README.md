@@ -24,7 +24,7 @@
 - [ ] git
 - [ ] Docker
   - [ ] [Docker Desktop](https://www.docker.com/get-started/)
-- [ ] kubernetes
+- [ ] [kubernetes](https://kubernetes.io/)
   - [ ] [kind](https://kind.sigs.k8s.io/)
   - [ ] [kubectl](https://kubernetes.io/docs/tasks/tools/install-kubectl-macos/#install-with-homebrew-on-macos) 
   - [ ] [kustomize](https://kustomize.io/)
@@ -32,12 +32,12 @@
   - [ ] [helm](https://helm.sh/)
 
 ### DB
-- [ ] InfluxDB 2+
-- [ ] Mysql 5.7+
-- [ ] MongoDB
-- [ ] PostgreSQL
+- [ ] [InfluxDB](https://www.influxdata.com/products/influxdb-overview/)
+- [ ] [Mysql](https://www.mysql.com/)
+- [ ] [MongoDB](https://www.mongodb.com/)
+- [ ] [PostgreSQL](https://www.postgresql.org/)
   - [ ] [Postgres.app](https://postgresapp.com/)
-- [ ] Redis
+- [ ] [Redis](https://redis.io/)
 
 ### Tools
 - [ ] [Cyberduck](https://cyberduck.io/)
