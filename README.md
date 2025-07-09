@@ -8,23 +8,25 @@
     - [ ] [fzf](https://github.com/junegunn/fzf)
     - [ ] [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
 - [ ] [Homebrew](https://brew.sh/)
+- [ ] [ClaudeCode](https://www.anthropic.com/claude-code)
+    - [ ] [playwright-mcp](https://github.com/microsoft/playwright-mcp)
 
 ### Language Interpreter, Compiler
 
-- [ ] Python 3.10+
-    - [ ] [Poetry](https://python-poetry.org/)
-    - [ ] [pyenv](https://github.com/pyenv/pyenv)
-- [ ] Elixir 1.13+ (erlang)
-- [ ] Rust 1.61+
-- [ ] Go 1.18+
-- [ ] Node.js 16.15.1 (LTS)
+- [ ] Python
+    - [ ] [uv](https://docs.astral.sh/uv/)
+    - [ ] [ruff](https://github.com/astral-sh/ruff)
+- [ ] Elixir (w/ erlang)
+- [ ] Rust
+- [ ] Go
+- [ ] Node.js
 
 ### Editor, IDE
 
-- [ ] [CURSOR](https://www.cursor.com/)
+- [ ] [Cursor](https://www.cursor.com/)
 - [ ] [Visual Studio Code](https://code.visualstudio.com/)
 
-### Infra, VCS
+### Infra
 
 - [ ] aws-cli
 - [ ] git
@@ -40,7 +42,6 @@
 ### DB
 
 - [ ] InfluxDB 2+
-- [ ] Mysql 5.7+
 - [ ] MongoDB
 - [ ] PostgreSQL
     - [ ] [Postgres.app](https://postgresapp.com/)
