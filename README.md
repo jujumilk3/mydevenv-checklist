@@ -65,7 +65,7 @@
 - [ ] [Cyberduck](https://cyberduck.io/)
 - [ ] [DBeaver](https://dbeaver.io/)
 - [ ] [Discord](https://discord.com/download)
-- [ ] [Figma](https://www.figma.com/)
+- [ ] [Figma](https://www.figma.com/ko-kr/downloads/)
 - [ ] [Kubernetes Lens](https://k8slens.dev/)
     - [ ] [Kubernetes Open Lens](https://github.com/MuhammedKalkan/OpenLens)
 - [ ] [MongoDB Compass](https://www.mongodb.com/products/compass)
