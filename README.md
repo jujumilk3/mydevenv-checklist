@@ -48,6 +48,7 @@
     GitHub → Settings → SSH and GPG keys
     New SSH key 클릭
     복사한 공개키 붙여넣기
+- [ ] [gh(github cli)](https://cli.github.com/)
 - [ ] Docker
     - [ ] [Docker Desktop](https://www.docker.com/get-started/)
 - [ ] kubernetes
