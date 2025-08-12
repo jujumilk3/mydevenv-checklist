@@ -11,16 +11,16 @@
 
 ### Language
 
-- [ ] Python
+- [ ] Python(brew)
     - [ ] [uv](https://docs.astral.sh/uv/)
     - [ ] [ruff](https://github.com/astral-sh/ruff)
-- [ ] Elixir (w/ erlang)
-- [ ] Rust
-- [ ] Go
-- [ ] Node.js
+- [ ] [Elixir (w/ erlang)](https://elixir-lang.org/install.html#macos)
+- [ ] [Rust](https://www.rust-lang.org/tools/install)
+- [ ] [Go](https://go.dev/doc/install)
+- [ ] Node.js(brew)
 - [ ] Java
 - [ ] Kotlin
-- [ ] Flutter (w/ Dart)
+- [ ] Flutter (w/ Dart. brew)
 
 ### Editor, IDE
 
@@ -30,7 +30,7 @@
 
 ### Infra
 
-- [ ] aws-cli
+- [ ] [aws-cli](https://docs.aws.amazon.com/ko_kr/cli/latest/userguide/getting-started-install.html)
 - [ ] git
 - [ ] Docker
     - [ ] [Docker Desktop](https://www.docker.com/get-started/)
@@ -43,11 +43,11 @@
 
 ### DB
 
-- [ ] InfluxDB 2+
+- [ ] InfluxDB 2+ (brew)
 - [ ] MongoDB
 - [ ] PostgreSQL
     - [ ] [Postgres.app](https://postgresapp.com/)
-- [ ] Redis
+- [ ] Redis (brew)
 
 ### Browser
 
