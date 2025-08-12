@@ -13,7 +13,7 @@
 
 - [ ] Python(brew)
     - [ ] [uv](https://docs.astral.sh/uv/)
-    - [ ] [ruff](https://github.com/astral-sh/ruff)
+    - [ ] [ruff](https://docs.astral.sh/ruff/installation/)
 - [ ] [Elixir (w/ erlang)](https://elixir-lang.org/install.html#macos)
 - [ ] [Rust](https://www.rust-lang.org/tools/install)
 - [ ] [Go](https://go.dev/doc/install)
@@ -32,6 +32,20 @@
 
 - [ ] [aws-cli](https://docs.aws.amazon.com/ko_kr/cli/latest/userguide/getting-started-install.html)
 - [ ] git
+    ```bash
+    git config --global user.name "jujumilk3"
+    git config --global user.email "jujumilk3@gmail.com"
+    ssh-keygen -t ed25519 -C "jujumilk3@gmail.com"
+    # Enter 3번 (기본 위치, 패스워드 없이)
+    eval "$(ssh-agent -s)"
+    ssh-add ~/.ssh/id_ed25519
+    cat ~/.ssh/id_ed25519.pub
+    # 또는
+    pbcopy < ~/.ssh/id_ed25519.pub  # 클립보드에 복사
+    ```
+    GitHub → Settings → SSH and GPG keys
+    New SSH key 클릭
+    복사한 공개키 붙여넣기
 - [ ] Docker
     - [ ] [Docker Desktop](https://www.docker.com/get-started/)
 - [ ] kubernetes
