@@ -24,6 +24,7 @@
 
 ### Editor, IDE
 
+- [ ] [Android Studio](https://developer.android.com/studio)
 - [ ] [Cursor](https://www.cursor.com/)
 - [ ] [Visual Studio Code](https://code.visualstudio.com/)
 
@@ -48,6 +49,12 @@
     - [ ] [Postgres.app](https://postgresapp.com/)
 - [ ] Redis
 
+### Browser
+
+- [ ] [Chrome](https://www.google.com/chrome/)
+- [ ] [Edge](https://www.microsoft.com/en-us/edge)
+- [ ] [Firefox](https://www.mozilla.org/en-US/firefox/new/)
+
 ### Tools
 
 - [ ] [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager)
@@ -59,7 +66,6 @@
 - [ ] [DBeaver](https://dbeaver.io/)
 - [ ] [Discord](https://discord.com/download)
 - [ ] [Figma](https://www.figma.com/)
-- [ ] [Firefox](https://www.mozilla.org/en-US/firefox/new/)
 - [ ] [Kubernetes Lens](https://k8slens.dev/)
     - [ ] [Kubernetes Open Lens](https://github.com/MuhammedKalkan/OpenLens)
 - [ ] [MongoDB Compass](https://www.mongodb.com/products/compass)
@@ -95,7 +101,7 @@ alias k="kubectl"
 source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
 ```
 
-#### vim
+### vim
 
 ```shell
 # ~/.vimrc
