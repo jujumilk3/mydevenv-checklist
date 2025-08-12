@@ -32,6 +32,7 @@
 
 - [ ] [aws-cli](https://docs.aws.amazon.com/ko_kr/cli/latest/userguide/getting-started-install.html)
 - [ ] git
+
     ```bash
     git config --global user.name "jujumilk3"
     git config --global user.email "jujumilk3@gmail.com"
@@ -43,6 +44,7 @@
     # 또는
     pbcopy < ~/.ssh/id_ed25519.pub  # 클립보드에 복사
     ```
+
     GitHub → Settings → SSH and GPG keys
     New SSH key 클릭
     복사한 공개키 붙여넣기
