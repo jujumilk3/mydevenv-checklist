@@ -50,10 +50,10 @@
     - [ ] [Docker Desktop](https://www.docker.com/get-started/)
 - [ ] kubernetes
     - [ ] [kind](https://kind.sigs.k8s.io/)
-    - [ ] [kubectl](https://kubernetes.io/docs/tasks/tools/install-kubectl-macos/#install-with-homebrew-on-macos)
-    - [ ] [kustomize](https://kustomize.io/)
+    - [ ] [kubectl](https://kubernetes.io/docs/tasks/tools/install-kubectl-macos/#install-with-homebrew-on-macos) - `brew install kubectl`
+    - [ ] [kustomize](https://kustomize.io/) - `brew install kustomize`
     - [ ] [minikube](https://minikube.sigs.k8s.io/docs/start/)
-    - [ ] [helm](https://helm.sh/)
+    - [ ] [helm](https://helm.sh/) - `brew install helm`
 
 ### DB
 
@@ -110,9 +110,6 @@ export CLICOLOR=1
 export LSCOLORS=ExGxBxDxCxEgEdxbxgxcxd
 export HOMEBREW_NO_AUTO_UPDATE=1
 alias k="kubectl"
-
-[ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
-source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
 ```
 
 ### vim
