@@ -78,6 +78,7 @@ SAVEHIST=10000000
 export CLICOLOR=1
 export LSCOLORS=ExGxBxDxCxEgEdxbxgxcxd
 export HOMEBREW_NO_AUTO_UPDATE=1
+alias k="kubectl"
 
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
 source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
