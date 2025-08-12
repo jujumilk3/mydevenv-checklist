@@ -8,10 +8,8 @@
     - [ ] [fzf](https://github.com/junegunn/fzf)
     - [ ] [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
 - [ ] [Homebrew](https://brew.sh/)
-- [ ] [ClaudeCode](https://www.anthropic.com/claude-code)
-    - [ ] [playwright-mcp](https://github.com/microsoft/playwright-mcp)
 
-### Language Interpreter, Compiler
+### Language
 
 - [ ] Python
     - [ ] [uv](https://docs.astral.sh/uv/)
@@ -20,6 +18,9 @@
 - [ ] Rust
 - [ ] Go
 - [ ] Node.js
+- [ ] Java
+- [ ] Kotlin
+- [ ] Flutter (w/ Dart)
 
 ### Editor, IDE
 
@@ -51,13 +52,19 @@
 
 - [ ] [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager)
 - [ ] [Bruno](https://www.usebruno.com/)
+- [ ] [ChatGPT](https://chatgpt.com/download)
+- [ ] [Claude](https://www.anthropic.com/claude)
+- [ ] [Claude Code](https://www.anthropic.com/claude-code)
 - [ ] [Cyberduck](https://cyberduck.io/)
 - [ ] [DBeaver](https://dbeaver.io/)
+- [ ] [Discord](https://discord.com/download)
 - [ ] [Figma](https://www.figma.com/)
+- [ ] [Firefox](https://www.mozilla.org/en-US/firefox/new/)
 - [ ] [Kubernetes Lens](https://k8slens.dev/)
     - [ ] [Kubernetes Open Lens](https://github.com/MuhammedKalkan/OpenLens)
 - [ ] [MongoDB Compass](https://www.mongodb.com/products/compass)
 - [ ] [Notion](https://www.notion.so/ko-kr/desktop)
+- [ ] [Obsidian](https://obsidian.md/)
 - [ ] [Proxyman](https://proxyman.io/)
 - [ ] [Raycast](https://raycast.com/)
 - [ ] [Redis](https://redis.com/redis-enterprise/redis-insight/)
@@ -65,6 +72,10 @@
 - [ ] [SnippetsLab](https://www.renfei.org/snippets-lab/)
 - [ ] [Typora](https://typora.io/)
 - [ ] [WindowTidy](https://www.lightpillar.com/window-tidy.html)
+
+### MCP
+
+- [ ] [playwright-mcp](https://github.com/microsoft/playwright-mcp)
 
 ## Profile settings
 
