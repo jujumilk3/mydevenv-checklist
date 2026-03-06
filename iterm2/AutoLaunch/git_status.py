@@ -63,7 +63,7 @@ async def main(connection):
     @iterm2.StatusBarRPC
     async def git_status_coroutine(knobs, path=iterm2.Reference("path")):
         if not path:
-            return ""
+            return "⎇"
         return await get_git_info(path)
 
     await component.async_register(connection, git_status_coroutine)
