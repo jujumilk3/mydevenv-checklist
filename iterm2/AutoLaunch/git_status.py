@@ -47,7 +47,7 @@ async def get_git_info(path):
 
         return f"⎇ {branch}  |  {diff}".strip() if diff else f"⎇ {branch}"
     except Exception:
-        return ""
+        return "⎇"
 
 
 async def main(connection):
@@ -72,4 +72,4 @@ async def main(connection):
 
 iterm2.run_forever(main)
 
-# ~/Application Support/iTerm2/Scripts/AutoLaunch/git_status.py
+# vim ~/Library/Application\ Support/iTerm2/Scripts/AutoLaunch/git_status.py
