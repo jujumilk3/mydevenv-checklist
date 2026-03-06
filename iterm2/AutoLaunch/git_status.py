@@ -13,7 +13,7 @@ async def get_git_info(path):
             text=True,
         )
         if result.returncode != 0:
-            return ""
+            return "⎇"
 
         branch = subprocess.run(
             ["git", "symbolic-ref", "--short", "HEAD"],
